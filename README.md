@@ -11,7 +11,7 @@ We emphasize methodological rigor over specific implementation choices.
 
 ### Part A: Location Matching
 Create a linkage solution between:
-- `raw_financials_location` (financial records)
+- `raw_financials` (financial records)
 - `business_location` (POI location data)
 
 Key requirements:
