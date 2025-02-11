@@ -9,7 +9,7 @@ We emphasize methodological rigor over specific implementation choices.
 
 ## Problem Statement
 
-### Part A: Location Matching
+### Part A: Location Matching - Entity Resolution
 Create a linkage solution between:
 - `raw_financials` (financial records)
 - `business_location` (POI location data)
@@ -19,7 +19,7 @@ Key requirements:
 - Simple string equality is insufficient
 - Document your matching strategy's assumptions
 
-### Part B: Revenue Analysis
+### Part B: Revenue Analysis - Financial Adjustment
 1. Create `financial` table with:
    - Matched location IDs
    - Raw/adjusted revenue columns
