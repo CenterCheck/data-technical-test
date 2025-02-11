@@ -42,10 +42,10 @@ In your solution, briefly address:
 
 ## Data Structure
 
-### raw_financials ([access it here](https://centercheck-shared-data-science-technical-test.s3.us-west-2.amazonaws.com/raw_financials.parquet))
+### raw_financials ([s3 link](s3://centercheck-shared-data-science-technical-test/raw_financials.parquet) - [download](https://centercheck-shared-data-science-technical-test.s3.us-west-2.amazonaws.com/raw_financials.parquet))
 `id | name | address | city | state | postal code | start_at | end_at | revenue`
 
-### business_locations ([access it here](https://centercheck-shared-data-science-technical-test.s3.us-west-2.amazonaws.com/business_locations.parquet))
+### business_locations ([s3 link](s3://centercheck-shared-data-science-technical-test/business_locations.parquet) - [download](https://centercheck-shared-data-science-technical-test.s3.us-west-2.amazonaws.com/business_locations.parquet))
 `id | business_entity_id | name | street_address | city | state | postal_code | area_sq_ft`
 
 Note: Contains real-world inconsistencies (address typos, name variations)
