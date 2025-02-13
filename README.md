@@ -32,7 +32,7 @@ In your solution, briefly address:
 
 1. **Statistical Validation**  
 "If we had verified sales data for a subset of locations:  
-- How would you calculate the minimum sample size needed to statistically validate your matching approach?  
+- How would you calculate the minimum sample size needed to statistically validate your matching and revenue adjustment approach?  
 - What parameters would this calculation depend on?"
 
 2. **Model Comparison**  
